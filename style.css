@@ -391,7 +391,7 @@ figure {
 
 @media (max-width: 1440px) {
   .slick-arrow {
-    display: none;
+    display: none !important;
   }
 }
 
